@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 - 🔭 We are currently working on an app to simplify renting things to others called [Shapp](https://apps.apple.com/de/app/shapp-shapps-dir-einfach/id6472041604)
-- 🌱 I'm currently learning Functional Programming
+- 🌱 I'm currently learning Human Centered AI
 - 👯 I'm looking to collaborate on Feature Selection for Computer Vision or Geology
-- 📫 How to reach me: [Email me](mailto:schulz.kilian@outlook.de)  [Linkedin me](https://www.linkedin.com/in/kilian-schulz-585948158/)   [Instagram me](https://www.instagram.com/gsusgristus/)[Play me in chess](https://lichess.org/@/UltimateG)  
+- 📫 How to reach me: [Email me](mailto:kilianschulz@kilianschulz.com)  [Linkedin me](https://www.linkedin.com/in/kilian-schulz/)   [Instagram me](https://www.instagram.com/gsusgristus/)[Play me in chess](https://lichess.org/@/UltimateG)  
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
