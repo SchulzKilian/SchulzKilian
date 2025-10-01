@@ -17,7 +17,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SchulzKilian&show_icons=true&theme=radical)
 
 ## My Projects
-🐍 [Python library to simplify LLM tooluse](https://github.com/SchulzKilian/Toolchain)  
+🐍 [Python library to simplify LLM tooluse]([https://github.com/SchulzKilian/Toolchain](https://pypi.org/project/llm_toolchain/))  
 🔍 [Tool for Feature Selection in Computer Vision](https://github.com/SchulzKilian/Machine-Teaching)  
 ♟️ [Chess app that lets you start at equal random positions from famous games](https://github.com/SchulzKilian/Chesster)  
 🤝 [An app to rent things to your friends and neighbours](https://apps.apple.com/de/app/shapp-shapps-dir-einfach/id6472041604)  
